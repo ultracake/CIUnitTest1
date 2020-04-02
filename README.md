@@ -1,4 +1,4 @@
-# mandatory1test
+# mandatory1 for unit testing
 
 ## Project setup
 ```
